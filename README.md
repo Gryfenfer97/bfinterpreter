@@ -14,5 +14,5 @@ cmake --install build
 ## How to use
 
 ```sh
-bfi <programm_name>
+bfi <program_name>
 ```
